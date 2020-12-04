@@ -1,0 +1,5553 @@
+/3.2
+(ODB.1
+	Dependencies:	"$AVEXT/jfif.avx\n$AVEXT/imagine.avx\n"
+	FirstRootClassName:	"Project"
+	Roots:	2
+	Version:	32
+)
+
+(Project.2
+	Name:	"jembrana.apr"
+	CreationDate:	"13 Mei 2016 22:04:39"
+	GUIName:	"Project"
+	Win:	3
+	CSMgr:	4
+	DocExts:	5
+	VisGUIWidth:	70
+	Doc:	6
+	Doc:	366
+	Doc:	327
+	Doc:	405
+	Doc:	560
+	Doc:	598
+	Doc:	483
+	Doc:	288
+	Doc:	444
+	Doc:	882
+	Doc:	522
+	Doc:	35
+	ActiveDoc:	35
+	Buttons:	892
+	Buttons:	893
+	Buttons:	894
+	Dependencies:	895
+	Dependencies:	896
+	Scripts:	897
+	Prefs:	898
+	WorkDir:	1725
+	WinX:	-8
+	WinY:	-7
+	WinW:	1382
+	WinH:	743
+	SerialNumber:	"911111111111"
+	SelColor:	1726
+	GUINames:	1727
+	GUINames:	1728
+	GUINames:	1729
+	GUINames:	1730
+	GUINames:	1731
+	GUINames:	1732
+	GUINames:	1733
+	TocWidthScale:	1.00000000000000
+)
+
+(DocWin.3
+	Owner:	2
+	Open:	1
+	X:	5
+	Y:	5
+	W:	246
+	H:	328
+)
+
+(CSMgr.4
+)
+
+(DocAct.5
+	Doc:	2
+)
+
+(Table.6
+	Name:	"Attributes of Badung.shp"
+	CreationDate:	"17 Mei 2016 0:00:45"
+	GUIName:	"Table"
+	Win:	7
+	CSMgr:	8
+	DocExts:	891
+	VTab:	14
+)
+
+(DocWin.7
+	Owner:	6
+	X:	20
+	Y:	20
+	W:	373
+	H:	260
+)
+
+(CSMgr.8
+	Client:	9
+)
+
+(CSClient.9
+	Client:	10
+	ReqName:	"RespondTable"
+)
+
+(FTheme.10
+	Name:	"Badung.shp"
+	Source:	11
+	Flags:	0x06
+	Legend:	21
+	Threshold:	34
+	View:	35
+	GSet:	887
+	LegEditScript:	"View.EditLegend"
+	TxPos:	888
+	LabelField:	17
+	Table:	6
+	AttrRules:	889
+	AttrRules:	890
+	SnapTolCursor:	1
+)
+
+(ShpSrc.11
+	Name:	12
+	FTab:	14
+)
+
+(SrcName.12
+	FileName:	13
+	Name:	"badung.shp"
+	SubName:	"Polygon"
+	OwnerClass:	"ShpSrc"
+)
+
+(FN.13
+	Path:	"d:/kuliah/semester vi/gis (si9255)/aris/peta bali/badung.shp"
+)
+
+(FTab.14
+	Name:	"badung.dbf"
+	BTab:	15
+	Fields:	19
+	Fields:	16
+	Fields:	17
+	SelBits:	20
+	FSrc:	11
+)
+
+(dBASE.15
+	Name:	"badung.dbf"
+	Fields:	16
+	Fields:	17
+	FileName:	18
+)
+
+(Field.16
+	Name:	"Id"
+	Btab:	15
+	Alias:	"Id"
+	Visible:	1
+	Type:	9
+	Order:	-1
+	Pixels:	53
+)
+
+(Field.17
+	Name:	"Badung"
+	Btab:	15
+	Alias:	"Badung"
+	Visible:	1
+	Type:	4
+	Order:	-1
+	Pixels:	125
+)
+
+(FN.18
+	Path:	"d:/kuliah/semester vi/gis (si9255)/aris/peta bali/badung.dbf"
+)
+
+(Field.19
+	Name:	"Shape"
+	Alias:	"Shape"
+	Visible:	1
+	Type:	19
+	Order:	-1
+	Pixels:	53
+)
+
+(Bitmap.20
+	NumBits:	1
+
+)
+
+(Legend.21
+	SymType:	0x02
+	LegType:	0x01
+	ClassType:	0x03
+	Symbols:	22
+	Class:	27
+	StdDevs:	1.00000000000000
+	NullSym:	28
+	NullValues:	32
+	StatValues:	33
+	Precision:	-3
+)
+
+(SymList.22
+	Child:	23
+)
+
+(BShSym.23
+	Color:	24
+	Outline:	1
+	OutlineColor:	25
+	OutlineWidth:	0.10000000000000
+	BgColor:	26
+)
+
+(TClr.24
+	Red:	0x4fe6
+	Green:	0xb3ce
+	Blue:	0xeb4a
+)
+
+(TClr.25
+)
+
+(TClr.26
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(LClass.27
+	IsText:	1
+	Precision:	-3
+)
+
+(BShSym.28
+	Color:	29
+	Outline:	1
+	OutlineColor:	30
+	OutlineWidth:	0.10000000000000
+	BgColor:	31
+)
+
+(TClr.29
+	Name:	"Transparent"
+)
+
+(TClr.30
+	Name:	"Transparent"
+)
+
+(TClr.31
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(NameDict.32
+)
+
+(NameDict.33
+)
+
+(Thresh.34
+)
+
+(View.35
+	Name:	"View1"
+	CreationDate:	"13 Mei 2016 22:04:56"
+	GUIName:	"View"
+	Win:	36
+	CSMgr:	37
+	DocExts:	39
+	DocExts:	40
+	Graphics:	41
+	Theme:	254
+	Theme:	293
+	Theme:	332
+	Theme:	371
+	Theme:	410
+	Theme:	449
+	Theme:	488
+	Theme:	527
+	Theme:	565
+	Theme:	603
+	Theme:	632
+	Theme:	661
+	Theme:	690
+	Theme:	719
+	Theme:	748
+	Theme:	777
+	Theme:	806
+	Theme:	10
+	Theme:	835
+	Theme:	849
+	Dpy:	249
+	TOCWidth:	150
+	CoordPrecision:	2
+)
+
+(DocWin.36
+	Owner:	35
+	Open:	1
+	X:	-8
+	Y:	-8
+	W:	1384
+	H:	635
+)
+
+(CSMgr.37
+	Client:	38
+)
+
+(CSClient.38
+	Client:	39
+	ReqName:	"ClientNfy"
+)
+
+(PanMgr.39
+	Doc:	35
+)
+
+(DocAct.40
+	Doc:	35
+)
+
+(GList.41
+	Child:	42
+	Child:	53
+	Child:	65
+	Child:	77
+	Child:	89
+	Child:	101
+	Child:	113
+	Child:	125
+	Child:	137
+	Child:	149
+	Child:	161
+	Child:	172
+	Child:	183
+	Child:	194
+	Child:	205
+	Child:	216
+	Child:	227
+	Child:	238
+	Dpy:	249
+	FormatNumb:	253
+)
+
+(GText.42
+	Bounds:	43
+	Sym:	44
+	Text:	"Kabupaten Buleleng"
+	Alignment:	0x01
+	Spacing:	1.00000000000000
+)
+
+(RectD.43
+	Left:	1268.28937424701370
+	Top:	1415.13146395277430
+	Right:	1373.08012062151580
+	Bottom:	1401.71395481391370
+)
+
+(TxSym.44
+	Color:	45
+	Scale:	46
+	Font:	47
+	BgColor:	51
+	OlColor:	52
+	Size:	966.06065799797068
+)
+
+(TClr.45
+)
+
+(Numb.46
+	N:	0.00496495852283
+)
+
+(NFont.47
+	Family:	48
+	Name:	49
+	Style:	50
+	Bold:	1
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.48
+	S:	"Arial Black"
+)
+
+(AVStr.49
+	S:	"Arial Black"
+)
+
+(AVStr.50
+	S:	"Normal"
+)
+
+(TClr.51
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TClr.52
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(GLabel.53
+	Bounds:	54
+	Sym:	55
+	Text:	"Singaraja"
+	Spacing:	1.00000000000000
+	Siblings:	64
+)
+
+(RectD.54
+	Left:	1255.23184396838110
+	Top:	1601.36868849548200
+	Right:	1330.22497353149610
+	Bottom:	1581.31704957486290
+)
+
+(TxSym.55
+	Color:	56
+	Scale:	46
+	Font:	57
+	BgColor:	62
+	OlColor:	63
+	Size:	1443.71800228456750
+)
+
+(TClr.56
+)
+
+(NFont.57
+	Family:	58
+	Name:	59
+	Style:	60
+	CommonFamily:	61
+	Weight:	1
+	Wideness:	1
+	UseCaching:	1
+)
+
+(AVStr.58
+	S:	"Arial"
+)
+
+(AVStr.59
+	S:	"Arial"
+)
+
+(AVStr.60
+	S:	"Normal"
+)
+
+(AVStr.61
+	S:	"Helvetica"
+)
+
+(TClr.62
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TClr.63
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(List.64
+	Child:	53
+)
+
+(GLabel.65
+	Bounds:	66
+	Sym:	67
+	Text:	"Semarapura"
+	Spacing:	1.00000000000000
+	Siblings:	76
+)
+
+(RectD.66
+	Left:	1732.55001030848550
+	Top:	936.05094802901647
+	Right:	1830.20149185190010
+	Bottom:	915.99930910839748
+)
+
+(TxSym.67
+	Color:	68
+	Scale:	46
+	Font:	69
+	BgColor:	74
+	OlColor:	75
+	Size:	1443.71800228456750
+)
+
+(TClr.68
+)
+
+(NFont.69
+	Family:	70
+	Name:	71
+	Style:	72
+	CommonFamily:	73
+	Weight:	1
+	Wideness:	1
+	UseCaching:	1
+)
+
+(AVStr.70
+	S:	"Arial"
+)
+
+(AVStr.71
+	S:	"Arial"
+)
+
+(AVStr.72
+	S:	"Normal"
+)
+
+(AVStr.73
+	S:	"Helvetica"
+)
+
+(TClr.74
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TClr.75
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(List.76
+	Child:	65
+)
+
+(GLabel.77
+	Bounds:	78
+	Sym:	79
+	Text:	"Tabanan"
+	Spacing:	1.00000000000000
+	Siblings:	88
+)
+
+(RectD.78
+	Left:	1315.03021232587780
+	Top:	949.82154064399163
+	Right:	1384.80991576963170
+	Bottom:	929.76990172337264
+)
+
+(TxSym.79
+	Color:	80
+	Scale:	46
+	Font:	81
+	BgColor:	86
+	OlColor:	87
+	Size:	1443.71800228456690
+)
+
+(TClr.80
+)
+
+(NFont.81
+	Family:	82
+	Name:	83
+	Style:	84
+	CommonFamily:	85
+	Weight:	1
+	Wideness:	1
+	UseCaching:	1
+)
+
+(AVStr.82
+	S:	"Arial"
+)
+
+(AVStr.83
+	S:	"Arial"
+)
+
+(AVStr.84
+	S:	"Normal"
+)
+
+(AVStr.85
+	S:	"Helvetica"
+)
+
+(TClr.86
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TClr.87
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(List.88
+	Child:	77
+)
+
+(GLabel.89
+	Bounds:	90
+	Sym:	91
+	Text:	"Amlapura"
+	Spacing:	1.00000000000000
+	Siblings:	100
+)
+
+(RectD.90
+	Left:	2069.62407348260330
+	Top:	1092.95801668894590
+	Right:	2145.61978499174940
+	Bottom:	1072.90637776832700
+)
+
+(TxSym.91
+	Color:	92
+	Scale:	46
+	Font:	93
+	BgColor:	98
+	OlColor:	99
+	Size:	1443.71800228456660
+)
+
+(TClr.92
+)
+
+(NFont.93
+	Family:	94
+	Name:	95
+	Style:	96
+	CommonFamily:	97
+	Weight:	1
+	Wideness:	1
+	UseCaching:	1
+)
+
+(AVStr.94
+	S:	"Arial"
+)
+
+(AVStr.95
+	S:	"Arial"
+)
+
+(AVStr.96
+	S:	"Normal"
+)
+
+(AVStr.97
+	S:	"Helvetica"
+)
+
+(TClr.98
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TClr.99
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(List.100
+	Child:	89
+)
+
+(GLabel.101
+	Bounds:	102
+	Sym:	103
+	Text:	"Negara"
+	Spacing:	1.00000000000000
+	Siblings:	112
+)
+
+(RectD.102
+	Left:	529.70061270022018
+	Top:	1233.71112270594680
+	Right:	587.85036557001524
+	Bottom:	1213.65948378532790
+)
+
+(TxSym.103
+	Color:	104
+	Scale:	46
+	Font:	105
+	BgColor:	110
+	OlColor:	111
+	Size:	1443.71800228456660
+)
+
+(TClr.104
+)
+
+(NFont.105
+	Family:	106
+	Name:	107
+	Style:	108
+	CommonFamily:	109
+	Weight:	1
+	Wideness:	1
+	UseCaching:	1
+)
+
+(AVStr.106
+	S:	"Arial"
+)
+
+(AVStr.107
+	S:	"Arial"
+)
+
+(AVStr.108
+	S:	"Normal"
+)
+
+(AVStr.109
+	S:	"Helvetica"
+)
+
+(TClr.110
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TClr.111
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(List.112
+	Child:	101
+)
+
+(GLabel.113
+	Bounds:	114
+	Sym:	115
+	Text:	"Gianyar"
+	Spacing:	1.00000000000000
+	Siblings:	124
+)
+
+(RectD.114
+	Left:	1636.42363236431040
+	Top:	945.60868235514488
+	Right:	1698.38319662902310
+	Bottom:	925.55704343452589
+)
+
+(TxSym.115
+	Color:	116
+	Scale:	46
+	Font:	117
+	BgColor:	122
+	OlColor:	123
+	Size:	1443.71800228456690
+)
+
+(TClr.116
+)
+
+(NFont.117
+	Family:	118
+	Name:	119
+	Style:	120
+	CommonFamily:	121
+	Weight:	1
+	Wideness:	1
+	UseCaching:	1
+)
+
+(AVStr.118
+	S:	"Arial"
+)
+
+(AVStr.119
+	S:	"Arial"
+)
+
+(AVStr.120
+	S:	"Normal"
+)
+
+(AVStr.121
+	S:	"Helvetica"
+)
+
+(TClr.122
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TClr.123
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(List.124
+	Child:	113
+)
+
+(GLabel.125
+	Bounds:	126
+	Sym:	127
+	Text:	"Bangli"
+	Spacing:	1.00000000000000
+	Siblings:	136
+)
+
+(RectD.126
+	Left:	1682.48511148481790
+	Top:	1080.95724506932290
+	Right:	1731.81214322954070
+	Bottom:	1060.90560614870380
+)
+
+(TxSym.127
+	Color:	128
+	Scale:	46
+	Font:	129
+	BgColor:	134
+	OlColor:	135
+	Size:	1443.71800228456730
+)
+
+(TClr.128
+)
+
+(NFont.129
+	Family:	130
+	Name:	131
+	Style:	132
+	CommonFamily:	133
+	Weight:	1
+	Wideness:	1
+	UseCaching:	1
+)
+
+(AVStr.130
+	S:	"Arial"
+)
+
+(AVStr.131
+	S:	"Arial"
+)
+
+(AVStr.132
+	S:	"Normal"
+)
+
+(AVStr.133
+	S:	"Helvetica"
+)
+
+(TClr.134
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TClr.135
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(List.136
+	Child:	125
+)
+
+(GLabel.137
+	Bounds:	138
+	Sym:	139
+	Text:	"Denpasar"
+	Spacing:	1.00000000000000
+	Siblings:	148
+)
+
+(RectD.138
+	Left:	1441.99434783045150
+	Top:	767.29232195392592
+	Right:	1518.99264128562850
+	Bottom:	747.24068303330694
+)
+
+(TxSym.139
+	Color:	140
+	Scale:	46
+	Font:	141
+	BgColor:	146
+	OlColor:	147
+	Size:	1443.71800228456730
+)
+
+(TClr.140
+)
+
+(NFont.141
+	Family:	142
+	Name:	143
+	Style:	144
+	CommonFamily:	145
+	Weight:	1
+	Wideness:	1
+	UseCaching:	1
+)
+
+(AVStr.142
+	S:	"Arial"
+)
+
+(AVStr.143
+	S:	"Arial"
+)
+
+(AVStr.144
+	S:	"Normal"
+)
+
+(AVStr.145
+	S:	"Helvetica"
+)
+
+(TClr.146
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TClr.147
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(List.148
+	Child:	137
+)
+
+(GLabel.149
+	Bounds:	150
+	Sym:	151
+	Text:	"Mangupura"
+	Spacing:	1.00000000000000
+	Siblings:	160
+)
+
+(RectD.150
+	Left:	1372.40083817667440
+	Top:	934.86664699778919
+	Right:	1461.83114776263510
+	Bottom:	914.81500807717021
+)
+
+(TxSym.151
+	Color:	152
+	Scale:	46
+	Font:	153
+	BgColor:	158
+	OlColor:	159
+	Size:	1443.71800228456730
+)
+
+(TClr.152
+)
+
+(NFont.153
+	Family:	154
+	Name:	155
+	Style:	156
+	CommonFamily:	157
+	Weight:	1
+	Wideness:	1
+	UseCaching:	1
+)
+
+(AVStr.154
+	S:	"Arial"
+)
+
+(AVStr.155
+	S:	"Arial"
+)
+
+(AVStr.156
+	S:	"Normal"
+)
+
+(AVStr.157
+	S:	"Helvetica"
+)
+
+(TClr.158
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TClr.159
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(List.160
+	Child:	149
+)
+
+(GText.161
+	Bounds:	162
+	Sym:	163
+	Text:	"Kab. Karangasem"
+	Spacing:	1.00000000000000
+)
+
+(RectD.162
+	Left:	1927.49286487103470
+	Top:	1201.87088357003380
+	Right:	2149.62742728851660
+	Bottom:	1170.54019775656660
+)
+
+(TxSym.163
+	Color:	164
+	Scale:	46
+	Font:	165
+	BgColor:	170
+	OlColor:	171
+	Size:	2255.80937856963510
+)
+
+(TClr.164
+)
+
+(NFont.165
+	Family:	166
+	Name:	167
+	Style:	168
+	CommonFamily:	169
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.166
+	S:	"Arial"
+)
+
+(AVStr.167
+	S:	"Arial"
+)
+
+(AVStr.168
+	S:	"Normal"
+)
+
+(AVStr.169
+	S:	"Helvetica"
+)
+
+(TClr.170
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TClr.171
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(GText.172
+	Bounds:	173
+	Sym:	174
+	Text:	"Kabupaten Bangli"
+	Spacing:	1.00000000000000
+)
+
+(RectD.173
+	Left:	1686.97390359943570
+	Top:	1336.92851848737270
+	Right:	1861.92445318183630
+	Bottom:	1311.86396983659890
+)
+
+(TxSym.174
+	Color:	175
+	Scale:	46
+	Font:	176
+	BgColor:	181
+	OlColor:	182
+	Size:	1804.64750285570860
+)
+
+(TClr.175
+)
+
+(NFont.176
+	Family:	177
+	Name:	178
+	Style:	179
+	CommonFamily:	180
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.177
+	S:	"Arial"
+)
+
+(AVStr.178
+	S:	"Arial"
+)
+
+(AVStr.179
+	S:	"Normal"
+)
+
+(AVStr.180
+	S:	"Helvetica"
+)
+
+(TClr.181
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TClr.182
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(GText.183
+	Bounds:	184
+	Sym:	185
+	Text:	"Kabupaten Tabanan"
+	Spacing:	1.00000000000000
+)
+
+(RectD.184
+	Left:	1143.29698849059920
+	Top:	1065.24671436202170
+	Right:	1303.71009985555110
+	Bottom:	1045.19507544140290
+)
+
+(TxSym.185
+	Color:	186
+	Scale:	46
+	Font:	187
+	BgColor:	192
+	OlColor:	193
+	Size:	1443.71800228456660
+)
+
+(TClr.186
+)
+
+(NFont.187
+	Family:	188
+	Name:	189
+	Style:	190
+	CommonFamily:	191
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.188
+	S:	"Arial"
+)
+
+(AVStr.189
+	S:	"Arial"
+)
+
+(AVStr.190
+	S:	"Normal"
+)
+
+(AVStr.191
+	S:	"Helvetica"
+)
+
+(TClr.192
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TClr.193
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(GText.194
+	Bounds:	195
+	Sym:	196
+	Text:	"Kabupaten Jembrana"
+	Spacing:	1.00000000000000
+)
+
+(RectD.195
+	Left:	450.44125078706827
+	Top:	1305.23976769318050
+	Right:	662.48733237261411
+	Bottom:	1280.17521904240680
+)
+
+(TxSym.196
+	Color:	197
+	Scale:	46
+	Font:	198
+	BgColor:	203
+	OlColor:	204
+	Size:	1804.64750285570860
+)
+
+(TClr.197
+)
+
+(NFont.198
+	Family:	199
+	Name:	200
+	Style:	201
+	CommonFamily:	202
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.199
+	S:	"Arial"
+)
+
+(AVStr.200
+	S:	"Arial"
+)
+
+(AVStr.201
+	S:	"Normal"
+)
+
+(AVStr.202
+	S:	"Helvetica"
+)
+
+(TClr.203
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TClr.204
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(GText.205
+	Bounds:	206
+	Sym:	207
+	Text:	"Kab. Gianyar"
+	Spacing:	1.00000000000000
+)
+
+(RectD.206
+	Left:	1562.23301593924590
+	Top:	860.79161036785342
+	Right:	1691.56608697723820
+	Bottom:	835.72706171707966
+)
+
+(TxSym.207
+	Color:	208
+	Scale:	46
+	Font:	209
+	BgColor:	214
+	OlColor:	215
+	Size:	1804.64750285570860
+)
+
+(TClr.208
+)
+
+(NFont.209
+	Family:	210
+	Name:	211
+	Style:	212
+	CommonFamily:	213
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.210
+	S:	"Arial"
+)
+
+(AVStr.211
+	S:	"Arial"
+)
+
+(AVStr.212
+	S:	"Normal"
+)
+
+(AVStr.213
+	S:	"Helvetica"
+)
+
+(TClr.214
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TClr.215
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(GText.216
+	Bounds:	217
+	Sym:	218
+	Text:	"Kab. Klungkung"
+	Spacing:	1.00000000000000
+)
+
+(RectD.217
+	Left:	1744.84615610916880
+	Top:	888.98922759997390
+	Right:	1901.49958517650450
+	Bottom:	863.92467894920014
+)
+
+(TxSym.218
+	Color:	219
+	Scale:	46
+	Font:	220
+	BgColor:	225
+	OlColor:	226
+	Size:	1804.64750285570860
+)
+
+(TClr.219
+)
+
+(NFont.220
+	Family:	221
+	Name:	222
+	Style:	223
+	CommonFamily:	224
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.221
+	S:	"Arial"
+)
+
+(AVStr.222
+	S:	"Arial"
+)
+
+(AVStr.223
+	S:	"Normal"
+)
+
+(AVStr.224
+	S:	"Helvetica"
+)
+
+(TClr.225
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TClr.226
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(GText.227
+	Bounds:	228
+	Sym:	229
+	Text:	"Kab. Badung"
+	Spacing:	1.00000000000000
+)
+
+(RectD.228
+	Left:	1328.59561601596220
+	Top:	456.62576337412696
+	Right:	1456.67545962141590
+	Bottom:	431.56121472335326
+)
+
+(TxSym.229
+	Color:	230
+	Scale:	46
+	Font:	231
+	BgColor:	236
+	OlColor:	237
+	Size:	1804.64750285570860
+)
+
+(TClr.230
+)
+
+(NFont.231
+	Family:	232
+	Name:	233
+	Style:	234
+	CommonFamily:	235
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.232
+	S:	"Arial"
+)
+
+(AVStr.233
+	S:	"Arial"
+)
+
+(AVStr.234
+	S:	"Normal"
+)
+
+(AVStr.235
+	S:	"Helvetica"
+)
+
+(TClr.236
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TClr.237
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(GText.238
+	Bounds:	239
+	Sym:	240
+	Selected:	0x01
+	Text:	"Kab.\nDenpasar"
+	Spacing:	1.00000000000000
+)
+
+(RectD.239
+	Left:	1452.12803436620400
+	Top:	730.09789240310465
+	Right:	1548.37590118517510
+	Bottom:	679.96879510155713
+)
+
+(TxSym.240
+	Color:	241
+	Scale:	46
+	Font:	242
+	BgColor:	247
+	OlColor:	248
+	Size:	1804.64750285570860
+)
+
+(TClr.241
+)
+
+(NFont.242
+	Family:	243
+	Name:	244
+	Style:	245
+	CommonFamily:	246
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.243
+	S:	"Arial"
+)
+
+(AVStr.244
+	S:	"Arial"
+)
+
+(AVStr.245
+	S:	"Normal"
+)
+
+(AVStr.246
+	S:	"Helvetica"
+)
+
+(TClr.247
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TClr.248
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(MapDpy.249
+	Left:	1297.83839364815090
+	Bottom:	456.65373720074626
+	Top:	1698.69163909176590
+	Right:	1918.85734459373410
+	Scale:	46
+	FrameTop:	6.16666666666667
+	FrameRight:	12.61458333333333
+	PageDpy:	250
+	FitToPage:	1
+	MouseLoc:	252
+)
+
+(PageDpy.250
+	Top:	6.16666666666667
+	Right:	12.61458333333333
+	ReportUnits:	1
+	Units:	1
+	Scale:	251
+	ZoomRight:	12.61458333333333
+	ZoomTop:	6.16666666666667
+	GridSpacingX:	0.25000000000000
+	GridSpacingY:	0.25000000000000
+)
+
+(Numb.251
+	N:	96.00000000000000
+)
+
+(PointD.252
+	x:	373.65309671745433
+	y:	1692.39752810245320
+)
+
+(Numb.253
+)
+
+(FTheme.254
+	Name:	"Mangapura.shp"
+	Source:	255
+	Flags:	0x06
+	Legend:	265
+	Threshold:	285
+	View:	35
+	GSet:	286
+	LegEditScript:	"View.EditLegend"
+	TxPos:	287
+	LabelField:	261
+	Table:	288
+	SnapTolCursor:	1
+)
+
+(ShpSrc.255
+	Name:	256
+	FTab:	258
+)
+
+(SrcName.256
+	FileName:	257
+	Name:	"mangapura.shp"
+	SubName:	"Point"
+	OwnerClass:	"ShpSrc"
+)
+
+(FN.257
+	Path:	"d:/kuliah/semester vi/gis (si9255)/aris/peta bali/mangapura.shp"
+)
+
+(FTab.258
+	Name:	"mangapura.dbf"
+	BTab:	259
+	Fields:	263
+	Fields:	260
+	Fields:	261
+	SelBits:	264
+	FSrc:	255
+)
+
+(dBASE.259
+	Name:	"mangapura.dbf"
+	Fields:	260
+	Fields:	261
+	FileName:	262
+)
+
+(Field.260
+	Name:	"ID"
+	Btab:	259
+	Alias:	"ID"
+	Visible:	1
+	Type:	9
+	Order:	-1
+	Pixels:	53
+)
+
+(Field.261
+	Name:	"kota"
+	Btab:	259
+	Alias:	"kota"
+	Visible:	1
+	Type:	4
+	Order:	-1
+	Pixels:	125
+)
+
+(FN.262
+	Path:	"d:/kuliah/semester vi/gis (si9255)/aris/peta bali/mangapura.dbf"
+)
+
+(Field.263
+	Name:	"Shape"
+	Alias:	"Shape"
+	Visible:	1
+	Type:	17
+	Order:	-1
+	Pixels:	41
+)
+
+(Bitmap.264
+	NumBits:	1
+	Bits:	00000000 
+)
+
+(Legend.265
+	LegType:	0x01
+	ClassType:	0x03
+	Symbols:	266
+	Class:	275
+	StdDevs:	1.00000000000000
+	NullSym:	276
+	NullValues:	283
+	StatValues:	284
+	Precision:	-3
+)
+
+(SymList.266
+	Child:	267
+)
+
+(BMkSym.267
+	Color:	268
+	BgColor:	269
+	Font:	270
+	Size:	48.00000000000000
+	Pattern:	46
+	Angle:	360.00000000000000
+)
+
+(TClr.268
+	Red:	0xffff
+	Green:	0xffff
+)
+
+(TClr.269
+	Name:	"Transparent"
+)
+
+(NFont.270
+	Family:	271
+	Name:	272
+	Style:	273
+	CommonFamily:	274
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.271
+	S:	"Arial"
+)
+
+(AVStr.272
+	S:	"Arial"
+)
+
+(AVStr.273
+	S:	"Normal"
+)
+
+(AVStr.274
+	S:	"Helvetica"
+)
+
+(LClass.275
+	IsText:	1
+	Precision:	-3
+)
+
+(BMkSym.276
+	Color:	277
+	BgColor:	278
+	Font:	279
+	Size:	8.00000000000000
+	Pattern:	35
+	Angle:	360.00000000000000
+)
+
+(TClr.277
+	Name:	"Transparent"
+)
+
+(TClr.278
+	Name:	"Transparent"
+)
+
+(NFont.279
+	Family:	280
+	Name:	281
+	Style:	282
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.280
+	S:	"@Arial Unicode MS"
+)
+
+(AVStr.281
+	S:	"@Arial Unicode MS"
+)
+
+(AVStr.282
+	S:	"Normal"
+)
+
+(NameDict.283
+)
+
+(NameDict.284
+)
+
+(Thresh.285
+)
+
+(GSet.286
+	Child:	149
+)
+
+(TxPosPt.287
+	HAlign:	4
+	VAlign:	3
+)
+
+(Table.288
+	Name:	"Attributes of Mangapura.shp"
+	CreationDate:	"17 Mei 2016 21:15:41"
+	GUIName:	"Table"
+	Win:	289
+	CSMgr:	290
+	DocExts:	292
+	VTab:	258
+)
+
+(DocWin.289
+	Owner:	288
+	X:	398
+	Y:	190
+	W:	373
+	H:	260
+)
+
+(CSMgr.290
+	Client:	291
+)
+
+(CSClient.291
+	Client:	254
+	ReqName:	"RespondTable"
+)
+
+(DocAct.292
+	Doc:	288
+)
+
+(FTheme.293
+	Name:	"Dps.shp"
+	Source:	294
+	Flags:	0x06
+	Legend:	304
+	Threshold:	324
+	View:	35
+	GSet:	325
+	LegEditScript:	"View.EditLegend"
+	TxPos:	326
+	LabelField:	300
+	Table:	327
+	SnapTolCursor:	1
+)
+
+(ShpSrc.294
+	Name:	295
+	FTab:	297
+)
+
+(SrcName.295
+	FileName:	296
+	Name:	"dps.shp"
+	SubName:	"Point"
+	OwnerClass:	"ShpSrc"
+)
+
+(FN.296
+	Path:	"d:/kuliah/semester vi/gis (si9255)/aris/peta bali/dps.shp"
+)
+
+(FTab.297
+	Name:	"dps.dbf"
+	BTab:	298
+	Fields:	302
+	Fields:	299
+	Fields:	300
+	SelBits:	303
+	FSrc:	294
+)
+
+(dBASE.298
+	Name:	"dps.dbf"
+	Fields:	299
+	Fields:	300
+	FileName:	301
+)
+
+(Field.299
+	Name:	"ID"
+	Btab:	298
+	Alias:	"ID"
+	Visible:	1
+	Type:	9
+	Order:	-1
+	Pixels:	53
+)
+
+(Field.300
+	Name:	"kota"
+	Btab:	298
+	Alias:	"kota"
+	Visible:	1
+	Type:	4
+	Order:	-1
+	Pixels:	125
+)
+
+(FN.301
+	Path:	"d:/kuliah/semester vi/gis (si9255)/aris/peta bali/dps.dbf"
+)
+
+(Field.302
+	Name:	"Shape"
+	Alias:	"Shape"
+	Visible:	1
+	Type:	17
+	Order:	-1
+	Pixels:	41
+)
+
+(Bitmap.303
+	NumBits:	1
+	Bits:	00000000 
+)
+
+(Legend.304
+	LegType:	0x01
+	ClassType:	0x03
+	Symbols:	305
+	Class:	314
+	StdDevs:	1.00000000000000
+	NullSym:	315
+	NullValues:	322
+	StatValues:	323
+	Precision:	-3
+)
+
+(SymList.305
+	Child:	306
+)
+
+(BMkSym.306
+	Color:	307
+	BgColor:	308
+	Font:	309
+	Size:	60.00000000000000
+	Pattern:	46
+	Angle:	360.00000000000000
+)
+
+(TClr.307
+	Red:	0xffff
+	Green:	0xffff
+)
+
+(TClr.308
+	Name:	"Transparent"
+)
+
+(NFont.309
+	Family:	310
+	Name:	311
+	Style:	312
+	CommonFamily:	313
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.310
+	S:	"Arial"
+)
+
+(AVStr.311
+	S:	"Arial"
+)
+
+(AVStr.312
+	S:	"Normal"
+)
+
+(AVStr.313
+	S:	"Helvetica"
+)
+
+(LClass.314
+	IsText:	1
+	Precision:	-3
+)
+
+(BMkSym.315
+	Color:	316
+	BgColor:	317
+	Font:	318
+	Size:	8.00000000000000
+	Pattern:	35
+	Angle:	360.00000000000000
+)
+
+(TClr.316
+	Name:	"Transparent"
+)
+
+(TClr.317
+	Name:	"Transparent"
+)
+
+(NFont.318
+	Family:	319
+	Name:	320
+	Style:	321
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.319
+	S:	"@Arial Unicode MS"
+)
+
+(AVStr.320
+	S:	"@Arial Unicode MS"
+)
+
+(AVStr.321
+	S:	"Normal"
+)
+
+(NameDict.322
+)
+
+(NameDict.323
+)
+
+(Thresh.324
+)
+
+(GSet.325
+	Child:	137
+)
+
+(TxPosPt.326
+	HAlign:	4
+	VAlign:	3
+)
+
+(Table.327
+	Name:	"Attributes of Dps.shp"
+	CreationDate:	"17 Mei 2016 21:13:16"
+	GUIName:	"Table"
+	Win:	328
+	CSMgr:	329
+	DocExts:	331
+	VTab:	297
+)
+
+(DocWin.328
+	Owner:	327
+	X:	80
+	Y:	80
+	W:	373
+	H:	260
+)
+
+(CSMgr.329
+	Client:	330
+)
+
+(CSClient.330
+	Client:	293
+	ReqName:	"RespondTable"
+)
+
+(DocAct.331
+	Doc:	327
+)
+
+(FTheme.332
+	Name:	"Banglii.shp"
+	Source:	333
+	Flags:	0x06
+	Legend:	343
+	Threshold:	363
+	View:	35
+	GSet:	364
+	LegEditScript:	"View.EditLegend"
+	TxPos:	365
+	LabelField:	339
+	Table:	366
+	SnapTolCursor:	1
+)
+
+(ShpSrc.333
+	Name:	334
+	FTab:	336
+)
+
+(SrcName.334
+	FileName:	335
+	Name:	"banglii.shp"
+	SubName:	"Point"
+	OwnerClass:	"ShpSrc"
+)
+
+(FN.335
+	Path:	"d:/kuliah/semester vi/gis (si9255)/aris/peta bali/banglii.shp"
+)
+
+(FTab.336
+	Name:	"banglii.dbf"
+	BTab:	337
+	Fields:	341
+	Fields:	338
+	Fields:	339
+	SelBits:	342
+	FSrc:	333
+)
+
+(dBASE.337
+	Name:	"banglii.dbf"
+	Fields:	338
+	Fields:	339
+	FileName:	340
+)
+
+(Field.338
+	Name:	"ID"
+	Btab:	337
+	Alias:	"ID"
+	Visible:	1
+	Type:	9
+	Order:	-1
+	Pixels:	53
+)
+
+(Field.339
+	Name:	"kota"
+	Btab:	337
+	Alias:	"kota"
+	Visible:	1
+	Type:	4
+	Order:	-1
+	Pixels:	125
+)
+
+(FN.340
+	Path:	"d:/kuliah/semester vi/gis (si9255)/aris/peta bali/banglii.dbf"
+)
+
+(Field.341
+	Name:	"Shape"
+	Alias:	"Shape"
+	Visible:	1
+	Type:	17
+	Order:	-1
+	Pixels:	41
+)
+
+(Bitmap.342
+	NumBits:	1
+	Bits:	00000000 
+)
+
+(Legend.343
+	LegType:	0x01
+	ClassType:	0x03
+	Symbols:	344
+	Class:	353
+	StdDevs:	1.00000000000000
+	NullSym:	354
+	NullValues:	361
+	StatValues:	362
+	Precision:	-3
+)
+
+(SymList.344
+	Child:	345
+)
+
+(BMkSym.345
+	Color:	346
+	BgColor:	347
+	Font:	348
+	Size:	60.00000000000000
+	Pattern:	46
+	Angle:	360.00000000000000
+)
+
+(TClr.346
+	Red:	0xffff
+	Green:	0xffff
+)
+
+(TClr.347
+	Name:	"Transparent"
+)
+
+(NFont.348
+	Family:	349
+	Name:	350
+	Style:	351
+	CommonFamily:	352
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.349
+	S:	"Arial"
+)
+
+(AVStr.350
+	S:	"Arial"
+)
+
+(AVStr.351
+	S:	"Normal"
+)
+
+(AVStr.352
+	S:	"Helvetica"
+)
+
+(LClass.353
+	IsText:	1
+	Precision:	-3
+)
+
+(BMkSym.354
+	Color:	355
+	BgColor:	356
+	Font:	357
+	Size:	8.00000000000000
+	Pattern:	35
+	Angle:	360.00000000000000
+)
+
+(TClr.355
+	Name:	"Transparent"
+)
+
+(TClr.356
+	Name:	"Transparent"
+)
+
+(NFont.357
+	Family:	358
+	Name:	359
+	Style:	360
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.358
+	S:	"@Arial Unicode MS"
+)
+
+(AVStr.359
+	S:	"@Arial Unicode MS"
+)
+
+(AVStr.360
+	S:	"Normal"
+)
+
+(NameDict.361
+)
+
+(NameDict.362
+)
+
+(Thresh.363
+)
+
+(GSet.364
+	Child:	125
+)
+
+(TxPosPt.365
+	HAlign:	4
+	VAlign:	3
+)
+
+(Table.366
+	Name:	"Attributes of Banglii.shp"
+	CreationDate:	"17 Mei 2016 21:09:54"
+	GUIName:	"Table"
+	Win:	367
+	CSMgr:	368
+	DocExts:	370
+	VTab:	336
+)
+
+(DocWin.367
+	Owner:	366
+	X:	65
+	Y:	65
+	W:	373
+	H:	260
+)
+
+(CSMgr.368
+	Client:	369
+)
+
+(CSClient.369
+	Client:	332
+	ReqName:	"RespondTable"
+)
+
+(DocAct.370
+	Doc:	366
+)
+
+(FTheme.371
+	Name:	"Gianyarr.shp"
+	Source:	372
+	Flags:	0x06
+	Legend:	382
+	Threshold:	402
+	View:	35
+	GSet:	403
+	LegEditScript:	"View.EditLegend"
+	TxPos:	404
+	LabelField:	378
+	Table:	405
+	SnapTolCursor:	1
+)
+
+(ShpSrc.372
+	Name:	373
+	FTab:	375
+)
+
+(SrcName.373
+	FileName:	374
+	Name:	"gianyarr.shp"
+	SubName:	"Point"
+	OwnerClass:	"ShpSrc"
+)
+
+(FN.374
+	Path:	"d:/kuliah/semester vi/gis (si9255)/aris/peta bali/gianyarr.shp"
+)
+
+(FTab.375
+	Name:	"gianyarr.dbf"
+	BTab:	376
+	Fields:	380
+	Fields:	377
+	Fields:	378
+	SelBits:	381
+	FSrc:	372
+)
+
+(dBASE.376
+	Name:	"gianyarr.dbf"
+	Fields:	377
+	Fields:	378
+	FileName:	379
+)
+
+(Field.377
+	Name:	"ID"
+	Btab:	376
+	Alias:	"ID"
+	Visible:	1
+	Type:	9
+	Order:	-1
+	Pixels:	53
+)
+
+(Field.378
+	Name:	"kota"
+	Btab:	376
+	Alias:	"kota"
+	Visible:	1
+	Type:	4
+	Order:	-1
+	Pixels:	125
+)
+
+(FN.379
+	Path:	"d:/kuliah/semester vi/gis (si9255)/aris/peta bali/gianyarr.dbf"
+)
+
+(Field.380
+	Name:	"Shape"
+	Alias:	"Shape"
+	Visible:	1
+	Type:	17
+	Order:	-1
+	Pixels:	41
+)
+
+(Bitmap.381
+	NumBits:	1
+	Bits:	00000000 
+)
+
+(Legend.382
+	LegType:	0x01
+	ClassType:	0x03
+	Symbols:	383
+	Class:	392
+	StdDevs:	1.00000000000000
+	NullSym:	393
+	NullValues:	400
+	StatValues:	401
+	Precision:	-3
+)
+
+(SymList.383
+	Child:	384
+)
+
+(BMkSym.384
+	Color:	385
+	BgColor:	386
+	Font:	387
+	Size:	60.00000000000000
+	Pattern:	46
+	Angle:	360.00000000000000
+)
+
+(TClr.385
+	Red:	0xffff
+	Green:	0xffff
+)
+
+(TClr.386
+	Name:	"Transparent"
+)
+
+(NFont.387
+	Family:	388
+	Name:	389
+	Style:	390
+	CommonFamily:	391
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.388
+	S:	"Arial"
+)
+
+(AVStr.389
+	S:	"Arial"
+)
+
+(AVStr.390
+	S:	"Normal"
+)
+
+(AVStr.391
+	S:	"Helvetica"
+)
+
+(LClass.392
+	IsText:	1
+	Precision:	-3
+)
+
+(BMkSym.393
+	Color:	394
+	BgColor:	395
+	Font:	396
+	Size:	8.00000000000000
+	Pattern:	35
+	Angle:	360.00000000000000
+)
+
+(TClr.394
+	Name:	"Transparent"
+)
+
+(TClr.395
+	Name:	"Transparent"
+)
+
+(NFont.396
+	Family:	397
+	Name:	398
+	Style:	399
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.397
+	S:	"@Arial Unicode MS"
+)
+
+(AVStr.398
+	S:	"@Arial Unicode MS"
+)
+
+(AVStr.399
+	S:	"Normal"
+)
+
+(NameDict.400
+)
+
+(NameDict.401
+)
+
+(Thresh.402
+)
+
+(GSet.403
+	Child:	113
+)
+
+(TxPosPt.404
+	HAlign:	4
+	VAlign:	3
+)
+
+(Table.405
+	Name:	"Attributes of Gianyarr.shp"
+	CreationDate:	"17 Mei 2016 21:05:34"
+	GUIName:	"Table"
+	Win:	406
+	CSMgr:	407
+	DocExts:	409
+	VTab:	375
+)
+
+(DocWin.406
+	Owner:	405
+	X:	62
+	Y:	81
+	W:	359
+	H:	219
+)
+
+(CSMgr.407
+	Client:	408
+)
+
+(CSClient.408
+	Client:	371
+	ReqName:	"RespondTable"
+)
+
+(DocAct.409
+	Doc:	405
+)
+
+(FTheme.410
+	Name:	"Negaro.shp"
+	Source:	411
+	Flags:	0x06
+	Legend:	421
+	Threshold:	441
+	View:	35
+	GSet:	442
+	LegEditScript:	"View.EditLegend"
+	TxPos:	443
+	LabelField:	417
+	Table:	444
+	SnapTolCursor:	1
+)
+
+(ShpSrc.411
+	Name:	412
+	FTab:	414
+)
+
+(SrcName.412
+	FileName:	413
+	Name:	"negaro.shp"
+	SubName:	"Point"
+	OwnerClass:	"ShpSrc"
+)
+
+(FN.413
+	Path:	"d:/kuliah/semester vi/gis (si9255)/aris/peta bali/negaro.shp"
+)
+
+(FTab.414
+	Name:	"negaro.dbf"
+	BTab:	415
+	Fields:	419
+	Fields:	416
+	Fields:	417
+	SelBits:	420
+	FSrc:	411
+)
+
+(dBASE.415
+	Name:	"negaro.dbf"
+	Fields:	416
+	Fields:	417
+	FileName:	418
+)
+
+(Field.416
+	Name:	"ID"
+	Btab:	415
+	Alias:	"ID"
+	Visible:	1
+	Type:	9
+	Order:	-1
+	Pixels:	53
+)
+
+(Field.417
+	Name:	"kota"
+	Btab:	415
+	Alias:	"kota"
+	Visible:	1
+	Type:	4
+	Order:	-1
+	Pixels:	125
+)
+
+(FN.418
+	Path:	"d:/kuliah/semester vi/gis (si9255)/aris/peta bali/negaro.dbf"
+)
+
+(Field.419
+	Name:	"Shape"
+	Alias:	"Shape"
+	Visible:	1
+	Type:	17
+	Order:	-1
+	Pixels:	41
+)
+
+(Bitmap.420
+	NumBits:	1
+	NumBitsSet:	1
+	Bits:	00000001 
+)
+
+(Legend.421
+	LegType:	0x01
+	ClassType:	0x03
+	Symbols:	422
+	Class:	431
+	StdDevs:	1.00000000000000
+	NullSym:	432
+	NullValues:	439
+	StatValues:	440
+	Precision:	-3
+)
+
+(SymList.422
+	Child:	423
+)
+
+(BMkSym.423
+	Color:	424
+	BgColor:	425
+	Font:	426
+	Size:	60.00000000000000
+	Pattern:	46
+	Angle:	360.00000000000000
+)
+
+(TClr.424
+	Red:	0xffff
+	Green:	0xffff
+)
+
+(TClr.425
+	Name:	"Transparent"
+)
+
+(NFont.426
+	Family:	427
+	Name:	428
+	Style:	429
+	CommonFamily:	430
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.427
+	S:	"Arial"
+)
+
+(AVStr.428
+	S:	"Arial"
+)
+
+(AVStr.429
+	S:	"Normal"
+)
+
+(AVStr.430
+	S:	"Helvetica"
+)
+
+(LClass.431
+	IsText:	1
+	Precision:	-3
+)
+
+(BMkSym.432
+	Color:	433
+	BgColor:	434
+	Font:	435
+	Size:	8.00000000000000
+	Pattern:	35
+	Angle:	360.00000000000000
+)
+
+(TClr.433
+	Name:	"Transparent"
+)
+
+(TClr.434
+	Name:	"Transparent"
+)
+
+(NFont.435
+	Family:	436
+	Name:	437
+	Style:	438
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.436
+	S:	"@Arial Unicode MS"
+)
+
+(AVStr.437
+	S:	"@Arial Unicode MS"
+)
+
+(AVStr.438
+	S:	"Normal"
+)
+
+(NameDict.439
+)
+
+(NameDict.440
+)
+
+(Thresh.441
+)
+
+(GSet.442
+	Child:	101
+)
+
+(TxPosPt.443
+	HAlign:	4
+	VAlign:	3
+)
+
+(Table.444
+	Name:	"Attributes of Negaro.shp"
+	CreationDate:	"17 Mei 2016 21:02:09"
+	GUIName:	"Table"
+	Win:	445
+	CSMgr:	446
+	DocExts:	448
+	VTab:	414
+)
+
+(DocWin.445
+	Owner:	444
+	X:	35
+	Y:	35
+	W:	373
+	H:	260
+)
+
+(CSMgr.446
+	Client:	447
+)
+
+(CSClient.447
+	Client:	410
+	ReqName:	"RespondTable"
+)
+
+(DocAct.448
+	Doc:	444
+)
+
+(FTheme.449
+	Name:	"Krg.shp"
+	Source:	450
+	Flags:	0x06
+	Legend:	460
+	Threshold:	480
+	View:	35
+	GSet:	481
+	LegEditScript:	"View.EditLegend"
+	TxPos:	482
+	LabelField:	456
+	Table:	483
+	SnapTolCursor:	1
+)
+
+(ShpSrc.450
+	Name:	451
+	FTab:	453
+)
+
+(SrcName.451
+	FileName:	452
+	Name:	"krg.shp"
+	SubName:	"Point"
+	OwnerClass:	"ShpSrc"
+)
+
+(FN.452
+	Path:	"d:/kuliah/semester vi/gis (si9255)/aris/peta bali/krg.shp"
+)
+
+(FTab.453
+	Name:	"krg.dbf"
+	BTab:	454
+	Fields:	458
+	Fields:	455
+	Fields:	456
+	SelBits:	459
+	FSrc:	450
+)
+
+(dBASE.454
+	Name:	"krg.dbf"
+	Fields:	455
+	Fields:	456
+	FileName:	457
+)
+
+(Field.455
+	Name:	"ID"
+	Btab:	454
+	Alias:	"ID"
+	Visible:	1
+	Type:	9
+	Order:	-1
+	Pixels:	53
+)
+
+(Field.456
+	Name:	"kota"
+	Btab:	454
+	Alias:	"kota"
+	Visible:	1
+	Type:	4
+	Order:	-1
+	Pixels:	125
+)
+
+(FN.457
+	Path:	"d:/kuliah/semester vi/gis (si9255)/aris/peta bali/krg.dbf"
+)
+
+(Field.458
+	Name:	"Shape"
+	Alias:	"Shape"
+	Visible:	1
+	Type:	17
+	Order:	-1
+	Pixels:	41
+)
+
+(Bitmap.459
+	NumBits:	1
+	Bits:	00000000 
+)
+
+(Legend.460
+	LegType:	0x01
+	ClassType:	0x03
+	Symbols:	461
+	Class:	470
+	StdDevs:	1.00000000000000
+	NullSym:	471
+	NullValues:	478
+	StatValues:	479
+	Precision:	-3
+)
+
+(SymList.461
+	Child:	462
+)
+
+(BMkSym.462
+	Color:	463
+	BgColor:	464
+	Font:	465
+	Size:	60.00000000000000
+	Pattern:	46
+	Angle:	360.00000000000000
+)
+
+(TClr.463
+	Red:	0xffff
+	Green:	0xffff
+)
+
+(TClr.464
+	Name:	"Transparent"
+)
+
+(NFont.465
+	Family:	466
+	Name:	467
+	Style:	468
+	CommonFamily:	469
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.466
+	S:	"Arial"
+)
+
+(AVStr.467
+	S:	"Arial"
+)
+
+(AVStr.468
+	S:	"Normal"
+)
+
+(AVStr.469
+	S:	"Helvetica"
+)
+
+(LClass.470
+	IsText:	1
+	Precision:	-3
+)
+
+(BMkSym.471
+	Color:	472
+	BgColor:	473
+	Font:	474
+	Size:	8.00000000000000
+	Pattern:	35
+	Angle:	360.00000000000000
+)
+
+(TClr.472
+	Name:	"Transparent"
+)
+
+(TClr.473
+	Name:	"Transparent"
+)
+
+(NFont.474
+	Family:	475
+	Name:	476
+	Style:	477
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.475
+	S:	"@Arial Unicode MS"
+)
+
+(AVStr.476
+	S:	"@Arial Unicode MS"
+)
+
+(AVStr.477
+	S:	"Normal"
+)
+
+(NameDict.478
+)
+
+(NameDict.479
+)
+
+(Thresh.480
+)
+
+(GSet.481
+	Child:	89
+)
+
+(TxPosPt.482
+	HAlign:	4
+	VAlign:	3
+)
+
+(Table.483
+	Name:	"Attributes of Krg.shp"
+	CreationDate:	"17 Mei 2016 20:47:32"
+	GUIName:	"Table"
+	Win:	484
+	CSMgr:	485
+	DocExts:	487
+	VTab:	453
+)
+
+(DocWin.484
+	Owner:	483
+	X:	35
+	Y:	35
+	W:	373
+	H:	260
+)
+
+(CSMgr.485
+	Client:	486
+)
+
+(CSClient.486
+	Client:	449
+	ReqName:	"RespondTable"
+)
+
+(DocAct.487
+	Doc:	483
+)
+
+(FTheme.488
+	Name:	"Tbn.shp"
+	Source:	489
+	Flags:	0x06
+	Legend:	499
+	Threshold:	519
+	View:	35
+	GSet:	520
+	LegEditScript:	"View.EditLegend"
+	TxPos:	521
+	LabelField:	495
+	Table:	522
+	SnapTolCursor:	1
+)
+
+(ShpSrc.489
+	Name:	490
+	FTab:	492
+)
+
+(SrcName.490
+	FileName:	491
+	Name:	"tbn.shp"
+	SubName:	"Point"
+	OwnerClass:	"ShpSrc"
+)
+
+(FN.491
+	Path:	"d:/kuliah/semester vi/gis (si9255)/aris/peta bali/tbn.shp"
+)
+
+(FTab.492
+	Name:	"tbn.dbf"
+	BTab:	493
+	Fields:	497
+	Fields:	494
+	Fields:	495
+	SelBits:	498
+	FSrc:	489
+)
+
+(dBASE.493
+	Name:	"tbn.dbf"
+	Fields:	494
+	Fields:	495
+	FileName:	496
+)
+
+(Field.494
+	Name:	"ID"
+	Btab:	493
+	Alias:	"ID"
+	Visible:	1
+	Type:	9
+	Order:	-1
+	Pixels:	53
+)
+
+(Field.495
+	Name:	"kota"
+	Btab:	493
+	Alias:	"kota"
+	Visible:	1
+	Type:	4
+	Order:	-1
+	Pixels:	125
+)
+
+(FN.496
+	Path:	"d:/kuliah/semester vi/gis (si9255)/aris/peta bali/tbn.dbf"
+)
+
+(Field.497
+	Name:	"Shape"
+	Alias:	"Shape"
+	Visible:	1
+	Type:	17
+	Order:	-1
+	Pixels:	41
+)
+
+(Bitmap.498
+	NumBits:	1
+	Bits:	00000000 
+)
+
+(Legend.499
+	LegType:	0x01
+	ClassType:	0x03
+	Symbols:	500
+	Class:	509
+	StdDevs:	1.00000000000000
+	NullSym:	510
+	NullValues:	517
+	StatValues:	518
+	Precision:	-3
+)
+
+(SymList.500
+	Child:	501
+)
+
+(BMkSym.501
+	Color:	502
+	BgColor:	503
+	Font:	504
+	Size:	60.00000000000000
+	Pattern:	46
+	Angle:	360.00000000000000
+)
+
+(TClr.502
+	Red:	0xffff
+	Green:	0xffff
+)
+
+(TClr.503
+	Name:	"Transparent"
+)
+
+(NFont.504
+	Family:	505
+	Name:	506
+	Style:	507
+	CommonFamily:	508
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.505
+	S:	"Arial"
+)
+
+(AVStr.506
+	S:	"Arial"
+)
+
+(AVStr.507
+	S:	"Normal"
+)
+
+(AVStr.508
+	S:	"Helvetica"
+)
+
+(LClass.509
+	IsText:	1
+	Precision:	-3
+)
+
+(BMkSym.510
+	Color:	511
+	BgColor:	512
+	Font:	513
+	Size:	8.00000000000000
+	Pattern:	35
+	Angle:	360.00000000000000
+)
+
+(TClr.511
+	Name:	"Transparent"
+)
+
+(TClr.512
+	Name:	"Transparent"
+)
+
+(NFont.513
+	Family:	514
+	Name:	515
+	Style:	516
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.514
+	S:	"@Arial Unicode MS"
+)
+
+(AVStr.515
+	S:	"@Arial Unicode MS"
+)
+
+(AVStr.516
+	S:	"Normal"
+)
+
+(NameDict.517
+)
+
+(NameDict.518
+)
+
+(Thresh.519
+)
+
+(GSet.520
+	Child:	77
+)
+
+(TxPosPt.521
+	HAlign:	4
+	VAlign:	3
+)
+
+(Table.522
+	Name:	"Attributes of Tbn.shp"
+	CreationDate:	"17 Mei 2016 20:42:03"
+	GUIName:	"Table"
+	Win:	523
+	CSMgr:	524
+	DocExts:	526
+	VTab:	492
+)
+
+(DocWin.523
+	Owner:	522
+	X:	20
+	Y:	20
+	W:	373
+	H:	260
+)
+
+(CSMgr.524
+	Client:	525
+)
+
+(CSClient.525
+	Client:	488
+	ReqName:	"RespondTable"
+)
+
+(DocAct.526
+	Doc:	522
+)
+
+(FTheme.527
+	Name:	"Klk.shp"
+	Source:	528
+	Flags:	0x06
+	Legend:	538
+	Threshold:	557
+	View:	35
+	GSet:	558
+	LegEditScript:	"View.EditLegend"
+	TxPos:	559
+	LabelField:	534
+	Table:	560
+	SnapTolCursor:	1
+)
+
+(ShpSrc.528
+	Name:	529
+	FTab:	531
+)
+
+(SrcName.529
+	FileName:	530
+	Name:	"klk.shp"
+	SubName:	"Point"
+	OwnerClass:	"ShpSrc"
+)
+
+(FN.530
+	Path:	"d:/kuliah/semester vi/gis (si9255)/aris/peta bali/klk.shp"
+)
+
+(FTab.531
+	Name:	"klk.dbf"
+	BTab:	532
+	Fields:	536
+	Fields:	533
+	Fields:	534
+	SelBits:	537
+	FSrc:	528
+)
+
+(dBASE.532
+	Name:	"klk.dbf"
+	Fields:	533
+	Fields:	534
+	FileName:	535
+)
+
+(Field.533
+	Name:	"ID"
+	Btab:	532
+	Alias:	"ID"
+	Visible:	1
+	Type:	9
+	Order:	-1
+	Pixels:	53
+)
+
+(Field.534
+	Name:	"kabupaten"
+	Btab:	532
+	Alias:	"kabupaten"
+	Visible:	1
+	Type:	4
+	Order:	-1
+	Pixels:	125
+)
+
+(FN.535
+	Path:	"d:/kuliah/semester vi/gis (si9255)/aris/peta bali/klk.dbf"
+)
+
+(Field.536
+	Name:	"Shape"
+	Alias:	"Shape"
+	Visible:	1
+	Type:	17
+	Order:	-1
+	Pixels:	41
+)
+
+(Bitmap.537
+	NumBits:	1
+	Bits:	00000000 
+)
+
+(Legend.538
+	LegType:	0x01
+	ClassType:	0x03
+	Symbols:	539
+	Class:	547
+	StdDevs:	1.00000000000000
+	NullSym:	548
+	NullValues:	555
+	StatValues:	556
+	Precision:	-3
+)
+
+(SymList.539
+	Child:	540
+)
+
+(BMkSym.540
+	Color:	541
+	BgColor:	542
+	Font:	543
+	Size:	36.00000000000000
+	Pattern:	46
+	Angle:	360.00000000000000
+)
+
+(TClr.541
+	Red:	0xffff
+	Green:	0xffff
+)
+
+(TClr.542
+	Name:	"Transparent"
+)
+
+(NFont.543
+	Family:	544
+	Name:	545
+	Style:	546
+	Bold:	1
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.544
+	S:	"Arial Black"
+)
+
+(AVStr.545
+	S:	"Arial Black"
+)
+
+(AVStr.546
+	S:	"Normal"
+)
+
+(LClass.547
+	IsText:	1
+	Precision:	-3
+)
+
+(BMkSym.548
+	Color:	549
+	BgColor:	550
+	Font:	551
+	Size:	8.00000000000000
+	Pattern:	35
+	Angle:	360.00000000000000
+)
+
+(TClr.549
+	Name:	"Transparent"
+)
+
+(TClr.550
+	Name:	"Transparent"
+)
+
+(NFont.551
+	Family:	552
+	Name:	553
+	Style:	554
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.552
+	S:	"@Arial Unicode MS"
+)
+
+(AVStr.553
+	S:	"@Arial Unicode MS"
+)
+
+(AVStr.554
+	S:	"Normal"
+)
+
+(NameDict.555
+)
+
+(NameDict.556
+)
+
+(Thresh.557
+)
+
+(GSet.558
+	Child:	65
+)
+
+(TxPosPt.559
+	HAlign:	4
+	VAlign:	3
+)
+
+(Table.560
+	Name:	"Attributes of Klk.shp"
+	CreationDate:	"17 Mei 2016 0:28:10"
+	GUIName:	"Table"
+	Win:	561
+	CSMgr:	562
+	DocExts:	564
+	VTab:	531
+)
+
+(DocWin.561
+	Owner:	560
+	X:	50
+	Y:	50
+	W:	373
+	H:	260
+)
+
+(CSMgr.562
+	Client:	563
+)
+
+(CSClient.563
+	Client:	527
+	ReqName:	"RespondTable"
+)
+
+(DocAct.564
+	Doc:	560
+)
+
+(FTheme.565
+	Name:	"Kotashp.shp"
+	Source:	566
+	Flags:	0x06
+	Legend:	576
+	Threshold:	595
+	View:	35
+	GSet:	596
+	LegEditScript:	"View.EditLegend"
+	TxPos:	597
+	LabelField:	572
+	Table:	598
+	SnapTolCursor:	1
+)
+
+(ShpSrc.566
+	Name:	567
+	FTab:	569
+)
+
+(SrcName.567
+	FileName:	568
+	Name:	"kotashp.shp"
+	SubName:	"Point"
+	OwnerClass:	"ShpSrc"
+)
+
+(FN.568
+	Path:	"d:/kuliah/semester vi/gis (si9255)/aris/peta bali/kotashp.shp"
+)
+
+(FTab.569
+	Name:	"kotashp.dbf"
+	BTab:	570
+	Fields:	574
+	Fields:	571
+	Fields:	572
+	SelBits:	575
+	FSrc:	566
+)
+
+(dBASE.570
+	Name:	"kotashp.dbf"
+	Fields:	571
+	Fields:	572
+	FileName:	573
+)
+
+(Field.571
+	Name:	"ID"
+	Btab:	570
+	Alias:	"ID"
+	Visible:	1
+	Type:	9
+	Order:	-1
+	Pixels:	53
+)
+
+(Field.572
+	Name:	"kota"
+	Btab:	570
+	Alias:	"kota"
+	Visible:	1
+	Type:	4
+	Order:	-1
+	Pixels:	125
+)
+
+(FN.573
+	Path:	"d:/kuliah/semester vi/gis (si9255)/aris/peta bali/kotashp.dbf"
+)
+
+(Field.574
+	Name:	"Shape"
+	Alias:	"Shape"
+	Visible:	1
+	Type:	17
+	Order:	-1
+	Pixels:	41
+)
+
+(Bitmap.575
+	NumBits:	1
+	Bits:	00000000 
+)
+
+(Legend.576
+	LegType:	0x01
+	ClassType:	0x03
+	Symbols:	577
+	Class:	585
+	StdDevs:	1.00000000000000
+	NullSym:	586
+	NullValues:	593
+	StatValues:	594
+	Precision:	-3
+)
+
+(SymList.577
+	Child:	578
+)
+
+(BMkSym.578
+	Color:	579
+	BgColor:	580
+	Font:	581
+	Size:	36.00000000000000
+	Pattern:	46
+	Angle:	360.00000000000000
+)
+
+(TClr.579
+	Red:	0xffff
+	Green:	0xffff
+)
+
+(TClr.580
+	Name:	"Transparent"
+)
+
+(NFont.581
+	Family:	582
+	Name:	583
+	Style:	584
+	Bold:	1
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.582
+	S:	"Arial Black"
+)
+
+(AVStr.583
+	S:	"Arial Black"
+)
+
+(AVStr.584
+	S:	"Normal"
+)
+
+(LClass.585
+	IsText:	1
+	Precision:	-3
+)
+
+(BMkSym.586
+	Color:	587
+	BgColor:	588
+	Font:	589
+	Size:	8.00000000000000
+	Pattern:	35
+	Angle:	360.00000000000000
+)
+
+(TClr.587
+	Name:	"Transparent"
+)
+
+(TClr.588
+	Name:	"Transparent"
+)
+
+(NFont.589
+	Family:	590
+	Name:	591
+	Style:	592
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.590
+	S:	"@Arial Unicode MS"
+)
+
+(AVStr.591
+	S:	"@Arial Unicode MS"
+)
+
+(AVStr.592
+	S:	"Normal"
+)
+
+(NameDict.593
+)
+
+(NameDict.594
+)
+
+(Thresh.595
+)
+
+(GSet.596
+	Child:	53
+)
+
+(TxPosPt.597
+	HAlign:	4
+	VAlign:	3
+)
+
+(Table.598
+	Name:	"Attributes of Kotashp.shp"
+	CreationDate:	"17 Mei 2016 0:08:24"
+	GUIName:	"Table"
+	Win:	599
+	CSMgr:	600
+	DocExts:	602
+	VTab:	569
+)
+
+(DocWin.599
+	Owner:	598
+	X:	35
+	Y:	35
+	W:	373
+	H:	260
+)
+
+(CSMgr.600
+	Client:	601
+)
+
+(CSClient.601
+	Client:	565
+	ReqName:	"RespondTable"
+)
+
+(DocAct.602
+	Doc:	598
+)
+
+(FTheme.603
+	Name:	"Tabanan.shp"
+	Source:	604
+	Flags:	0x06
+	Legend:	614
+	Threshold:	627
+	View:	35
+	GSet:	628
+	LegEditScript:	"View.EditLegend"
+	TxPos:	629
+	LabelField:	610
+	AttrRules:	630
+	AttrRules:	631
+	SnapTolCursor:	1
+)
+
+(ShpSrc.604
+	Name:	605
+	FTab:	607
+)
+
+(SrcName.605
+	FileName:	606
+	Name:	"tabanan.shp"
+	SubName:	"Polygon"
+	OwnerClass:	"ShpSrc"
+)
+
+(FN.606
+	Path:	"d:/kuliah/semester vi/gis (si9255)/aris/peta bali/tabanan.shp"
+)
+
+(FTab.607
+	Name:	"tabanan.dbf"
+	BTab:	608
+	Fields:	612
+	Fields:	609
+	Fields:	610
+	SelBits:	613
+	FSrc:	604
+)
+
+(dBASE.608
+	Name:	"tabanan.dbf"
+	Fields:	609
+	Fields:	610
+	FileName:	611
+)
+
+(Field.609
+	Name:	"Id"
+	Btab:	608
+	Alias:	"Id"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.610
+	Name:	"Tabanan"
+	Btab:	608
+	Alias:	"Tabanan"
+	Visible:	1
+	Type:	4
+	Order:	-1
+)
+
+(FN.611
+	Path:	"d:/kuliah/semester vi/gis (si9255)/aris/peta bali/tabanan.dbf"
+)
+
+(Field.612
+	Name:	"Shape"
+	Alias:	"Shape"
+	Visible:	1
+	Type:	19
+	Order:	-1
+)
+
+(Bitmap.613
+	NumBits:	1
+
+)
+
+(Legend.614
+	SymType:	0x02
+	LegType:	0x01
+	ClassType:	0x03
+	Symbols:	615
+	Class:	620
+	StdDevs:	1.00000000000000
+	NullSym:	621
+	NullValues:	625
+	StatValues:	626
+	Precision:	-3
+)
+
+(SymList.615
+	Child:	616
+)
+
+(BShSym.616
+	Color:	617
+	Outline:	1
+	OutlineColor:	618
+	OutlineWidth:	0.10000000000000
+	BgColor:	619
+)
+
+(TClr.617
+	Red:	0xcc7
+	Green:	0xa524
+	Blue:	0xb0b
+)
+
+(TClr.618
+)
+
+(TClr.619
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(LClass.620
+	IsText:	1
+	Precision:	-3
+)
+
+(BShSym.621
+	Color:	622
+	Outline:	1
+	OutlineColor:	623
+	OutlineWidth:	0.10000000000000
+	BgColor:	624
+)
+
+(TClr.622
+	Name:	"Transparent"
+)
+
+(TClr.623
+	Name:	"Transparent"
+)
+
+(TClr.624
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(NameDict.625
+)
+
+(NameDict.626
+)
+
+(Thresh.627
+)
+
+(GSet.628
+)
+
+(TxPosPly.629
+	HAlign:	3
+	VAlign:	3
+)
+
+(AttrSingle.630
+	FTab:	607
+	Field:	609
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.631
+	FTab:	607
+	Field:	610
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(FTheme.632
+	Name:	"Klungkung.shp"
+	Source:	633
+	Flags:	0x06
+	Legend:	643
+	Threshold:	656
+	View:	35
+	GSet:	657
+	LegEditScript:	"View.EditLegend"
+	TxPos:	658
+	LabelField:	639
+	AttrRules:	659
+	AttrRules:	660
+	SnapTolCursor:	1
+)
+
+(ShpSrc.633
+	Name:	634
+	FTab:	636
+)
+
+(SrcName.634
+	FileName:	635
+	Name:	"klungkung.shp"
+	SubName:	"Polygon"
+	OwnerClass:	"ShpSrc"
+)
+
+(FN.635
+	Path:	"d:/kuliah/semester vi/gis (si9255)/aris/peta bali/klungkung.shp"
+)
+
+(FTab.636
+	Name:	"klungkung.dbf"
+	BTab:	637
+	Fields:	641
+	Fields:	638
+	Fields:	639
+	SelBits:	642
+	FSrc:	633
+)
+
+(dBASE.637
+	Name:	"klungkung.dbf"
+	Fields:	638
+	Fields:	639
+	FileName:	640
+)
+
+(Field.638
+	Name:	"Id"
+	Btab:	637
+	Alias:	"Id"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.639
+	Name:	"Klungkung"
+	Btab:	637
+	Alias:	"Klungkung"
+	Visible:	1
+	Type:	4
+	Order:	-1
+)
+
+(FN.640
+	Path:	"d:/kuliah/semester vi/gis (si9255)/aris/peta bali/klungkung.dbf"
+)
+
+(Field.641
+	Name:	"Shape"
+	Alias:	"Shape"
+	Visible:	1
+	Type:	19
+	Order:	-1
+)
+
+(Bitmap.642
+	NumBits:	4
+
+)
+
+(Legend.643
+	SymType:	0x02
+	LegType:	0x01
+	ClassType:	0x03
+	Symbols:	644
+	Class:	649
+	StdDevs:	1.00000000000000
+	NullSym:	650
+	NullValues:	654
+	StatValues:	655
+	Precision:	-3
+)
+
+(SymList.644
+	Child:	645
+)
+
+(BShSym.645
+	Color:	646
+	Outline:	1
+	OutlineColor:	647
+	OutlineWidth:	0.10000000000000
+	BgColor:	648
+)
+
+(TClr.646
+	Red:	0x27e3
+	Green:	0xcc74
+	Blue:	0xe2c6
+)
+
+(TClr.647
+)
+
+(TClr.648
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(LClass.649
+	IsText:	1
+	Precision:	-3
+)
+
+(BShSym.650
+	Color:	651
+	Outline:	1
+	OutlineColor:	652
+	OutlineWidth:	0.10000000000000
+	BgColor:	653
+)
+
+(TClr.651
+	Name:	"Transparent"
+)
+
+(TClr.652
+	Name:	"Transparent"
+)
+
+(TClr.653
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(NameDict.654
+)
+
+(NameDict.655
+)
+
+(Thresh.656
+)
+
+(GSet.657
+)
+
+(TxPosPly.658
+	HAlign:	3
+	VAlign:	3
+)
+
+(AttrSingle.659
+	FTab:	636
+	Field:	638
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.660
+	FTab:	636
+	Field:	639
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(FTheme.661
+	Name:	"Karangasem.shp"
+	Source:	662
+	Flags:	0x06
+	Legend:	672
+	Threshold:	685
+	View:	35
+	GSet:	686
+	LegEditScript:	"View.EditLegend"
+	TxPos:	687
+	LabelField:	668
+	AttrRules:	688
+	AttrRules:	689
+	SnapTolCursor:	1
+)
+
+(ShpSrc.662
+	Name:	663
+	FTab:	665
+)
+
+(SrcName.663
+	FileName:	664
+	Name:	"karangasem.shp"
+	SubName:	"Polygon"
+	OwnerClass:	"ShpSrc"
+)
+
+(FN.664
+	Path:	"d:/kuliah/semester vi/gis (si9255)/aris/peta bali/karangasem.shp"
+)
+
+(FTab.665
+	Name:	"karangasem.dbf"
+	BTab:	666
+	Fields:	670
+	Fields:	667
+	Fields:	668
+	SelBits:	671
+	FSrc:	662
+)
+
+(dBASE.666
+	Name:	"karangasem.dbf"
+	Fields:	667
+	Fields:	668
+	FileName:	669
+)
+
+(Field.667
+	Name:	"Id"
+	Btab:	666
+	Alias:	"Id"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.668
+	Name:	"Karangasem"
+	Btab:	666
+	Alias:	"Karangasem"
+	Visible:	1
+	Type:	4
+	Order:	-1
+)
+
+(FN.669
+	Path:	"d:/kuliah/semester vi/gis (si9255)/aris/peta bali/karangasem.dbf"
+)
+
+(Field.670
+	Name:	"Shape"
+	Alias:	"Shape"
+	Visible:	1
+	Type:	19
+	Order:	-1
+)
+
+(Bitmap.671
+	NumBits:	1
+
+)
+
+(Legend.672
+	SymType:	0x02
+	LegType:	0x01
+	ClassType:	0x03
+	Symbols:	673
+	Class:	678
+	StdDevs:	1.00000000000000
+	NullSym:	679
+	NullValues:	683
+	StatValues:	684
+	Precision:	-3
+)
+
+(SymList.673
+	Child:	674
+)
+
+(BShSym.674
+	Color:	675
+	Outline:	1
+	OutlineColor:	676
+	OutlineWidth:	0.10000000000000
+	BgColor:	677
+)
+
+(TClr.675
+	Red:	0x7b2b
+	Green:	0x2f17
+	Blue:	0xcfde
+)
+
+(TClr.676
+)
+
+(TClr.677
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(LClass.678
+	IsText:	1
+	Precision:	-3
+)
+
+(BShSym.679
+	Color:	680
+	Outline:	1
+	OutlineColor:	681
+	OutlineWidth:	0.10000000000000
+	BgColor:	682
+)
+
+(TClr.680
+	Name:	"Transparent"
+)
+
+(TClr.681
+	Name:	"Transparent"
+)
+
+(TClr.682
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(NameDict.683
+)
+
+(NameDict.684
+)
+
+(Thresh.685
+)
+
+(GSet.686
+)
+
+(TxPosPly.687
+	HAlign:	3
+	VAlign:	3
+)
+
+(AttrSingle.688
+	FTab:	665
+	Field:	667
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.689
+	FTab:	665
+	Field:	668
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(FTheme.690
+	Name:	"Jembrana.shp"
+	Source:	691
+	Flags:	0x06
+	Legend:	701
+	Threshold:	714
+	View:	35
+	GSet:	715
+	LegEditScript:	"View.EditLegend"
+	TxPos:	716
+	LabelField:	697
+	AttrRules:	717
+	AttrRules:	718
+	SnapTolCursor:	1
+)
+
+(ShpSrc.691
+	Name:	692
+	FTab:	694
+)
+
+(SrcName.692
+	FileName:	693
+	Name:	"jembrana.shp"
+	SubName:	"Polygon"
+	OwnerClass:	"ShpSrc"
+)
+
+(FN.693
+	Path:	"d:/kuliah/semester vi/gis (si9255)/aris/peta bali/jembrana.shp"
+)
+
+(FTab.694
+	Name:	"jembrana.dbf"
+	BTab:	695
+	Fields:	699
+	Fields:	696
+	Fields:	697
+	SelBits:	700
+	FSrc:	691
+)
+
+(dBASE.695
+	Name:	"jembrana.dbf"
+	Fields:	696
+	Fields:	697
+	FileName:	698
+)
+
+(Field.696
+	Name:	"Id"
+	Btab:	695
+	Alias:	"Id"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.697
+	Name:	"Jembrana"
+	Btab:	695
+	Alias:	"Jembrana"
+	Visible:	1
+	Type:	4
+	Order:	-1
+)
+
+(FN.698
+	Path:	"d:/kuliah/semester vi/gis (si9255)/aris/peta bali/jembrana.dbf"
+)
+
+(Field.699
+	Name:	"Shape"
+	Alias:	"Shape"
+	Visible:	1
+	Type:	19
+	Order:	-1
+)
+
+(Bitmap.700
+	NumBits:	1
+
+)
+
+(Legend.701
+	SymType:	0x02
+	LegType:	0x01
+	ClassType:	0x03
+	Symbols:	702
+	Class:	707
+	StdDevs:	1.00000000000000
+	NullSym:	708
+	NullValues:	712
+	StatValues:	713
+	Precision:	-3
+)
+
+(SymList.702
+	Child:	703
+)
+
+(BShSym.703
+	Color:	704
+	Outline:	1
+	OutlineColor:	705
+	OutlineWidth:	0.10000000000000
+	BgColor:	706
+)
+
+(TClr.704
+	Red:	0xfae0
+	Green:	0x19e
+	Blue:	0xb605
+)
+
+(TClr.705
+)
+
+(TClr.706
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(LClass.707
+	IsText:	1
+	Precision:	-3
+)
+
+(BShSym.708
+	Color:	709
+	Outline:	1
+	OutlineColor:	710
+	OutlineWidth:	0.10000000000000
+	BgColor:	711
+)
+
+(TClr.709
+	Name:	"Transparent"
+)
+
+(TClr.710
+	Name:	"Transparent"
+)
+
+(TClr.711
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(NameDict.712
+)
+
+(NameDict.713
+)
+
+(Thresh.714
+)
+
+(GSet.715
+)
+
+(TxPosPly.716
+	HAlign:	3
+	VAlign:	3
+)
+
+(AttrSingle.717
+	FTab:	694
+	Field:	696
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.718
+	FTab:	694
+	Field:	697
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(FTheme.719
+	Name:	"Gianyar.shp"
+	Source:	720
+	Flags:	0x06
+	Legend:	730
+	Threshold:	743
+	View:	35
+	GSet:	744
+	LegEditScript:	"View.EditLegend"
+	TxPos:	745
+	LabelField:	726
+	AttrRules:	746
+	AttrRules:	747
+	SnapTolCursor:	1
+)
+
+(ShpSrc.720
+	Name:	721
+	FTab:	723
+)
+
+(SrcName.721
+	FileName:	722
+	Name:	"gianyar.shp"
+	SubName:	"Polygon"
+	OwnerClass:	"ShpSrc"
+)
+
+(FN.722
+	Path:	"d:/kuliah/semester vi/gis (si9255)/aris/peta bali/gianyar.shp"
+)
+
+(FTab.723
+	Name:	"gianyar.dbf"
+	BTab:	724
+	Fields:	728
+	Fields:	725
+	Fields:	726
+	SelBits:	729
+	FSrc:	720
+)
+
+(dBASE.724
+	Name:	"gianyar.dbf"
+	Fields:	725
+	Fields:	726
+	FileName:	727
+)
+
+(Field.725
+	Name:	"Id"
+	Btab:	724
+	Alias:	"Id"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.726
+	Name:	"Gianyar"
+	Btab:	724
+	Alias:	"Gianyar"
+	Visible:	1
+	Type:	4
+	Order:	-1
+)
+
+(FN.727
+	Path:	"d:/kuliah/semester vi/gis (si9255)/aris/peta bali/gianyar.dbf"
+)
+
+(Field.728
+	Name:	"Shape"
+	Alias:	"Shape"
+	Visible:	1
+	Type:	19
+	Order:	-1
+)
+
+(Bitmap.729
+	NumBits:	1
+
+)
+
+(Legend.730
+	SymType:	0x02
+	LegType:	0x01
+	ClassType:	0x03
+	Symbols:	731
+	Class:	736
+	StdDevs:	1.00000000000000
+	NullSym:	737
+	NullValues:	741
+	StatValues:	742
+	Precision:	-3
+)
+
+(SymList.731
+	Child:	732
+)
+
+(BShSym.732
+	Color:	733
+	Outline:	1
+	OutlineColor:	734
+	OutlineWidth:	0.10000000000000
+	BgColor:	735
+)
+
+(TClr.733
+	Red:	0x8c4b
+	Green:	0x5c9a
+	Blue:	0x3380
+)
+
+(TClr.734
+)
+
+(TClr.735
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(LClass.736
+	IsText:	1
+	Precision:	-3
+)
+
+(BShSym.737
+	Color:	738
+	Outline:	1
+	OutlineColor:	739
+	OutlineWidth:	0.10000000000000
+	BgColor:	740
+)
+
+(TClr.738
+	Name:	"Transparent"
+)
+
+(TClr.739
+	Name:	"Transparent"
+)
+
+(TClr.740
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(NameDict.741
+)
+
+(NameDict.742
+)
+
+(Thresh.743
+)
+
+(GSet.744
+)
+
+(TxPosPly.745
+	HAlign:	3
+	VAlign:	3
+)
+
+(AttrSingle.746
+	FTab:	723
+	Field:	725
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.747
+	FTab:	723
+	Field:	726
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(FTheme.748
+	Name:	"Denpasar.shp"
+	Source:	749
+	Flags:	0x06
+	Legend:	759
+	Threshold:	772
+	View:	35
+	GSet:	773
+	LegEditScript:	"View.EditLegend"
+	TxPos:	774
+	LabelField:	755
+	AttrRules:	775
+	AttrRules:	776
+	SnapTolCursor:	1
+)
+
+(ShpSrc.749
+	Name:	750
+	FTab:	752
+)
+
+(SrcName.750
+	FileName:	751
+	Name:	"denpasar.shp"
+	SubName:	"Polygon"
+	OwnerClass:	"ShpSrc"
+)
+
+(FN.751
+	Path:	"d:/kuliah/semester vi/gis (si9255)/aris/peta bali/denpasar.shp"
+)
+
+(FTab.752
+	Name:	"denpasar.dbf"
+	BTab:	753
+	Fields:	757
+	Fields:	754
+	Fields:	755
+	SelBits:	758
+	FSrc:	749
+)
+
+(dBASE.753
+	Name:	"denpasar.dbf"
+	Fields:	754
+	Fields:	755
+	FileName:	756
+)
+
+(Field.754
+	Name:	"Id"
+	Btab:	753
+	Alias:	"Id"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.755
+	Name:	"Denpasar"
+	Btab:	753
+	Alias:	"Denpasar"
+	Visible:	1
+	Type:	4
+	Order:	-1
+)
+
+(FN.756
+	Path:	"d:/kuliah/semester vi/gis (si9255)/aris/peta bali/denpasar.dbf"
+)
+
+(Field.757
+	Name:	"Shape"
+	Alias:	"Shape"
+	Visible:	1
+	Type:	19
+	Order:	-1
+)
+
+(Bitmap.758
+	NumBits:	1
+
+)
+
+(Legend.759
+	SymType:	0x02
+	LegType:	0x01
+	ClassType:	0x03
+	Symbols:	760
+	Class:	765
+	StdDevs:	1.00000000000000
+	NullSym:	766
+	NullValues:	770
+	StatValues:	771
+	Precision:	-3
+)
+
+(SymList.760
+	Child:	761
+)
+
+(BShSym.761
+	Color:	762
+	Outline:	1
+	OutlineColor:	763
+	OutlineWidth:	0.10000000000000
+	BgColor:	764
+)
+
+(TClr.762
+	Red:	0x1109
+	Green:	0x4a73
+	Blue:	0x89c3
+)
+
+(TClr.763
+)
+
+(TClr.764
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(LClass.765
+	IsText:	1
+	Precision:	-3
+)
+
+(BShSym.766
+	Color:	767
+	Outline:	1
+	OutlineColor:	768
+	OutlineWidth:	0.10000000000000
+	BgColor:	769
+)
+
+(TClr.767
+	Name:	"Transparent"
+)
+
+(TClr.768
+	Name:	"Transparent"
+)
+
+(TClr.769
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(NameDict.770
+)
+
+(NameDict.771
+)
+
+(Thresh.772
+)
+
+(GSet.773
+)
+
+(TxPosPly.774
+	HAlign:	3
+	VAlign:	3
+)
+
+(AttrSingle.775
+	FTab:	752
+	Field:	754
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.776
+	FTab:	752
+	Field:	755
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(FTheme.777
+	Name:	"Buleleng.shp"
+	Source:	778
+	Flags:	0x07
+	Legend:	788
+	Threshold:	801
+	View:	35
+	GSet:	802
+	LegEditScript:	"View.EditLegend"
+	TxPos:	803
+	LabelField:	784
+	AttrRules:	804
+	AttrRules:	805
+	SnapTolCursor:	1
+)
+
+(ShpSrc.778
+	Name:	779
+	FTab:	781
+)
+
+(SrcName.779
+	FileName:	780
+	Name:	"buleleng.shp"
+	SubName:	"Polygon"
+	OwnerClass:	"ShpSrc"
+)
+
+(FN.780
+	Path:	"d:/kuliah/semester vi/gis (si9255)/aris/peta bali/buleleng.shp"
+)
+
+(FTab.781
+	Name:	"buleleng.dbf"
+	BTab:	782
+	Fields:	786
+	Fields:	783
+	Fields:	784
+	SelBits:	787
+	FSrc:	778
+)
+
+(dBASE.782
+	Name:	"buleleng.dbf"
+	Fields:	783
+	Fields:	784
+	FileName:	785
+)
+
+(Field.783
+	Name:	"Id"
+	Btab:	782
+	Alias:	"Id"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.784
+	Name:	"Buleleng"
+	Btab:	782
+	Alias:	"Buleleng"
+	Visible:	1
+	Type:	4
+	Order:	-1
+)
+
+(FN.785
+	Path:	"d:/kuliah/semester vi/gis (si9255)/aris/peta bali/buleleng.dbf"
+)
+
+(Field.786
+	Name:	"Shape"
+	Alias:	"Shape"
+	Visible:	1
+	Type:	19
+	Order:	-1
+)
+
+(Bitmap.787
+	NumBits:	1
+
+)
+
+(Legend.788
+	SymType:	0x02
+	LegType:	0x01
+	ClassType:	0x03
+	Symbols:	789
+	Class:	794
+	StdDevs:	1.00000000000000
+	NullSym:	795
+	NullValues:	799
+	StatValues:	800
+	Precision:	-3
+)
+
+(SymList.789
+	Child:	790
+)
+
+(BShSym.790
+	Color:	791
+	Outline:	1
+	OutlineColor:	792
+	OutlineWidth:	0.10000000000000
+	BgColor:	793
+)
+
+(TClr.791
+	Red:	0xae5a
+	Green:	0x2ea2
+	Blue:	0x1a05
+)
+
+(TClr.792
+)
+
+(TClr.793
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(LClass.794
+	IsText:	1
+	Precision:	-3
+)
+
+(BShSym.795
+	Color:	796
+	Outline:	1
+	OutlineColor:	797
+	OutlineWidth:	0.10000000000000
+	BgColor:	798
+)
+
+(TClr.796
+	Name:	"Transparent"
+)
+
+(TClr.797
+	Name:	"Transparent"
+)
+
+(TClr.798
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(NameDict.799
+)
+
+(NameDict.800
+)
+
+(Thresh.801
+)
+
+(GSet.802
+)
+
+(TxPosPly.803
+	HAlign:	3
+	VAlign:	3
+)
+
+(AttrSingle.804
+	FTab:	781
+	Field:	783
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.805
+	FTab:	781
+	Field:	784
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(FTheme.806
+	Name:	"Bangli.shp"
+	Source:	807
+	Flags:	0x06
+	Legend:	817
+	Threshold:	830
+	View:	35
+	GSet:	831
+	LegEditScript:	"View.EditLegend"
+	TxPos:	832
+	LabelField:	813
+	AttrRules:	833
+	AttrRules:	834
+	SnapTolCursor:	1
+)
+
+(ShpSrc.807
+	Name:	808
+	FTab:	810
+)
+
+(SrcName.808
+	FileName:	809
+	Name:	"bangli.shp"
+	SubName:	"Polygon"
+	OwnerClass:	"ShpSrc"
+)
+
+(FN.809
+	Path:	"d:/kuliah/semester vi/gis (si9255)/aris/peta bali/bangli.shp"
+)
+
+(FTab.810
+	Name:	"bangli.dbf"
+	BTab:	811
+	Fields:	815
+	Fields:	812
+	Fields:	813
+	SelBits:	816
+	FSrc:	807
+)
+
+(dBASE.811
+	Name:	"bangli.dbf"
+	Fields:	812
+	Fields:	813
+	FileName:	814
+)
+
+(Field.812
+	Name:	"Id"
+	Btab:	811
+	Alias:	"Id"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.813
+	Name:	"Bangli"
+	Btab:	811
+	Alias:	"Bangli"
+	Visible:	1
+	Type:	4
+	Order:	-1
+)
+
+(FN.814
+	Path:	"d:/kuliah/semester vi/gis (si9255)/aris/peta bali/bangli.dbf"
+)
+
+(Field.815
+	Name:	"Shape"
+	Alias:	"Shape"
+	Visible:	1
+	Type:	19
+	Order:	-1
+)
+
+(Bitmap.816
+	NumBits:	1
+
+)
+
+(Legend.817
+	SymType:	0x02
+	LegType:	0x01
+	ClassType:	0x03
+	Symbols:	818
+	Class:	823
+	StdDevs:	1.00000000000000
+	NullSym:	824
+	NullValues:	828
+	StatValues:	829
+	Precision:	-3
+)
+
+(SymList.818
+	Child:	819
+)
+
+(BShSym.819
+	Color:	820
+	Outline:	1
+	OutlineColor:	821
+	OutlineWidth:	0.10000000000000
+	BgColor:	822
+)
+
+(TClr.820
+	Red:	0xec33
+	Green:	0x757
+	Blue:	0x55b
+)
+
+(TClr.821
+)
+
+(TClr.822
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(LClass.823
+	IsText:	1
+	Precision:	-3
+)
+
+(BShSym.824
+	Color:	825
+	Outline:	1
+	OutlineColor:	826
+	OutlineWidth:	0.10000000000000
+	BgColor:	827
+)
+
+(TClr.825
+	Name:	"Transparent"
+)
+
+(TClr.826
+	Name:	"Transparent"
+)
+
+(TClr.827
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(NameDict.828
+)
+
+(NameDict.829
+)
+
+(Thresh.830
+)
+
+(GSet.831
+)
+
+(TxPosPly.832
+	HAlign:	3
+	VAlign:	3
+)
+
+(AttrSingle.833
+	FTab:	810
+	Field:	812
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.834
+	FTab:	810
+	Field:	813
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(ITheme.835
+	Name:	"Administrasi-bali-a1-1.jpg"
+	Source:	836
+	Flags:	0x06
+	Legend:	843
+	Threshold:	847
+	View:	35
+	GSet:	848
+	LegEditScript:	"View.EditLegend"
+)
+
+(ISrc.836
+	Name:	837
+	MapBox:	839
+	BandStats:	840
+	BandStats:	841
+	BandStats:	842
+)
+
+(SrcName.837
+	FileName:	838
+	Name:	"administrasi-bali-a1-1.jpg"
+	OwnerClass:	"ISrc"
+)
+
+(FN.838
+	Path:	"d:/kuliah/semester vi/gis (si9255)/aris/administrasi-bali-a1-1.jpg"
+)
+
+(RectD.839
+	Left:	-0.50000000000000
+	Top:	2103.50000000000000
+	Right:	2979.50000000000000
+	Bottom:	-0.50000000000000
+)
+
+(BStat.840
+	Max:	255.00000000000000
+	Mean:	127.50000000000000
+	StDv:	63.75000000000000
+)
+
+(BStat.841
+	Max:	255.00000000000000
+	Mean:	127.50000000000000
+	StDv:	63.75000000000000
+)
+
+(BStat.842
+	Max:	255.00000000000000
+	Mean:	127.50000000000000
+	StDv:	63.75000000000000
+)
+
+(MBILeg.843
+	GreenBand:	1
+	BlueBand:	2
+	RedLUT:	844
+	GreenLUT:	845
+	BlueLUT:	846
+)
+
+(ILUTIdn.844
+)
+
+(ILUTIdn.845
+)
+
+(ILUTIdn.846
+)
+
+(Thresh.847
+)
+
+(GSet.848
+)
+
+(FTheme.849
+	Name:	"Negaroa.shp"
+	Source:	850
+	Flags:	0x04
+	Legend:	859
+	Threshold:	879
+	View:	35
+	GSet:	880
+	LegEditScript:	"View.EditLegend"
+	TxPos:	881
+	Table:	882
+	SnapTolCursor:	1
+)
+
+(ShpSrc.850
+	Name:	851
+	FTab:	853
+)
+
+(SrcName.851
+	FileName:	852
+	Name:	"negaroa.shp"
+	SubName:	"Point"
+	OwnerClass:	"ShpSrc"
+)
+
+(FN.852
+	Path:	"d:/kuliah/semester vi/gis (si9255)/aris/peta bali/negaroa.shp"
+)
+
+(FTab.853
+	Name:	"negaroa.dbf"
+	BTab:	854
+	Fields:	857
+	Fields:	855
+	SelBits:	858
+	FSrc:	850
+)
+
+(dBASE.854
+	Name:	"negaroa.dbf"
+	Fields:	855
+	FileName:	856
+)
+
+(Field.855
+	Name:	"ID"
+	Btab:	854
+	Alias:	"ID"
+	Visible:	1
+	Type:	9
+	Order:	-1
+	Pixels:	53
+)
+
+(FN.856
+	Path:	"d:/kuliah/semester vi/gis (si9255)/aris/peta bali/negaroa.dbf"
+)
+
+(Field.857
+	Name:	"Shape"
+	Alias:	"Shape"
+	Visible:	1
+	Type:	17
+	Order:	-1
+	Pixels:	41
+)
+
+(Bitmap.858
+	NumBits:	1
+	NumBitsSet:	1
+	Bits:	00000001 
+)
+
+(Legend.859
+	LegType:	0x01
+	ClassType:	0x03
+	Symbols:	860
+	Class:	869
+	StdDevs:	1.00000000000000
+	NullSym:	870
+	NullValues:	877
+	StatValues:	878
+	Precision:	-3
+)
+
+(SymList.860
+	Child:	861
+)
+
+(BMkSym.861
+	Color:	862
+	BgColor:	863
+	Font:	864
+	Size:	60.00000000000000
+	Pattern:	46
+	Angle:	360.00000000000000
+)
+
+(TClr.862
+	Red:	0xffff
+	Green:	0xffff
+)
+
+(TClr.863
+	Name:	"Transparent"
+)
+
+(NFont.864
+	Family:	865
+	Name:	866
+	Style:	867
+	CommonFamily:	868
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.865
+	S:	"Arial"
+)
+
+(AVStr.866
+	S:	"Arial"
+)
+
+(AVStr.867
+	S:	"Normal"
+)
+
+(AVStr.868
+	S:	"Helvetica"
+)
+
+(LClass.869
+	IsText:	1
+	Precision:	-3
+)
+
+(BMkSym.870
+	Color:	871
+	BgColor:	872
+	Font:	873
+	Size:	8.00000000000000
+	Pattern:	35
+	Angle:	360.00000000000000
+)
+
+(TClr.871
+	Name:	"Transparent"
+)
+
+(TClr.872
+	Name:	"Transparent"
+)
+
+(NFont.873
+	Family:	874
+	Name:	875
+	Style:	876
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.874
+	S:	"@Arial Unicode MS"
+)
+
+(AVStr.875
+	S:	"@Arial Unicode MS"
+)
+
+(AVStr.876
+	S:	"Normal"
+)
+
+(NameDict.877
+)
+
+(NameDict.878
+)
+
+(Thresh.879
+)
+
+(GSet.880
+)
+
+(TxPosPt.881
+	HAlign:	4
+	VAlign:	3
+)
+
+(Table.882
+	Name:	"Attributes of Negaroa.shp"
+	CreationDate:	"17 Mei 2016 21:00:36"
+	GUIName:	"Table"
+	Win:	883
+	CSMgr:	884
+	DocExts:	886
+	VTab:	853
+)
+
+(DocWin.883
+	Owner:	882
+	X:	20
+	Y:	20
+	W:	373
+	H:	260
+)
+
+(CSMgr.884
+	Client:	885
+)
+
+(CSClient.885
+	Client:	849
+	ReqName:	"RespondTable"
+)
+
+(DocAct.886
+	Doc:	882
+)
+
+(GSet.887
+)
+
+(TxPosPly.888
+	HAlign:	3
+	VAlign:	3
+)
+
+(AttrSingle.889
+	FTab:	14
+	Field:	16
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.890
+	FTab:	14
+	Field:	17
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(DocAct.891
+	Doc:	6
+)
+
+(LButn.892
+	HelpTopic:	"New_button"
+	Update:	"Doc.NewUpdate"
+	Label:	"&New"
+	Click:	"View.New"
+)
+
+(LButn.893
+	Disabled:	1
+	HelpTopic:	"Open_button"
+	Update:	"Doc.OpenUpdate"
+	Label:	"&Open"
+	Click:	"Doc.Open"
+)
+
+(LButn.894
+	Disabled:	1
+	HelpTopic:	"Print_button"
+	Update:	"Doc.ActionUpdate"
+	Label:	"P&rint"
+	Click:	"Doc.Action"
+)
+
+(FN.895
+	Path:	"$AVEXT/jfif.avx"
+)
+
+(FN.896
+	Path:	"$AVEXT/imagine.avx"
+)
+
+(NameDict.897
+)
+
+(NameDict.898
+	Obj:	899
+	Obj:	900
+)
+
+(AVDict.899
+	InternalName:	"Table of Contents Defaults Dialog"
+)
+
+(AVDict.900
+	InternalName:	"_Thor_"
+)
+
+(FN.1725
+	Path:	"$HOME"
+)
+
+(TClr.1726
+	Red:	0xffff
+	Green:	0xffff
+)
+
+(AVStr.1727
+	S:	"View"
+)
+
+(AVStr.1728
+	S:	"Table"
+)
+
+(AVStr.1729
+	S:	"Chart"
+)
+
+(AVStr.1730
+	S:	"Layout"
+)
+
+(AVStr.1731
+	S:	"Script"
+)
+
+(AVStr.1732
+	S:	"Project"
+)
+
+(AVStr.1733
+	S:	"Appl"
+)
+

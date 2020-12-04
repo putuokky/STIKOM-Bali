@@ -1,0 +1,55 @@
+Al-Tamini, Salam dan Al-Bakri, J. T.
+2005. Comparison Between Supervised
+and Unsupervised Classifications for
+Mapping Land Use/Cover in Ajloun
+Area. Jourdan Journal of Agricultural
+Sciences, Volume , No 1, 2005.
+[2] Campbell, James, 2001. Digital Image
+Classification Geography 4354- Remote
+Sensing.
+[3] Danoedoro, Projo, 2012. Pengantar
+Penginderaan Jauh Digital, ANDI.,
+Yogyakarta
+[4] DigitalGlobe. 2010. Quickbird Imagery
+Products (Product Guide).
+DigitalGlobe, Inc., Longmont.
+[5] Lillesand, Kiefer, 1998. Penginderaan
+Jauh dan Interpretasi Citra, Gajah
+Mada University Press.
+[6] Lillesand, Kiefer, 2004. Remote Sensing
+and Interpretation (Fifth Edition). John
+Wiley & Sons, Inc., New York.
+[7] Lindgren, D.T, 1985. Land use
+Planning and Remote Sensing,
+Doldrecht: Martinus Nijhoff Publisher.
+[8] Munir, Rinaldi, 2004. Pengolahan
+CITRA DIGITAL dengan Pendekatan
+Algoritmik, Bandung: Penerbit
+INFORMATIKA.
+[9] Prahasta, Eddy, 2008. REMOTE
+SENSING Praktis Penginderaan Jauh
+& Pengolahan Citra Digital dengan
+Perangkat Lunak ER Mapper, Bandung:
+Penerbit INFORMATIKA.
+[10] Santosa, Budi, 2007. Data Mining
+Teknik Pemanfaatan Data untuk
+Keperluan Bisnis Teori & Aplikasi,
+Yogyakarta : Penerbit Graha Ilmu.
+[11] Sugiharto, Aris, 2006. Pemrograman
+GUI dengan Matlab, Yogyakarta:
+Penerbit Andi.
+[12]
+http://gd.itenas.ac.id/apa%20itu%20geodesi/rua
+ng%20lingkup/pj.html
+[13] http://kwalabekala.usu.ac.id/tata-gunalahan.html
+[14]
+http://nationalinks.blogspot.com/2009/0
+3/definisi-peta.html
+[15] http://www.erdas.com/
+[16] http://www.remotesensing.org/
+[17]
+http://www.satimagingcorp.com/satellit
+e-sensors/worldview-2.html
+[18]
+http://news.softpedia.com/news/
+WorldView-2-Satellite-to-ProvideGoogle-Earth-with-High-ResolutionImages-124112.shtml
